@@ -1,15 +1,14 @@
-// create button to clear the city array
-// add functionality to pull current location weather if no current city selected?
+// Create button for city
 
 var cityList = [];
 var id = "5859ec0dbfd9ff0a36abca355158892e";
 
-// stores cityList in localStorage
+// Store searched cities in local storage
 function storeCities() {
     localStorage.setItem("cities", JSON.stringify(cityList));
 }
 
-// adds last searched city to list-group as button for user to select city
+// Add city to searched city list
 function createCityList(){
     $(".cityList").empty();
     cityList.forEach(function(city) {
