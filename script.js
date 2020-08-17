@@ -118,7 +118,7 @@ init();
 // submit event that loads new data
 $("form").on("submit", function(event) {
     event.preventDefault();
-    console.log("im here!")
+    console.log("i work")
     var newCity = $("#citySearchInput").val().trim();
     cityList.push(newCity);
     createCityList();
