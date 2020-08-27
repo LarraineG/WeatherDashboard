@@ -4,7 +4,7 @@ Simple weather application that provides the weather forecast for the city of yo
 
 ## screenshots
 Sample snapshot
-![alt text](https://user-images.githubusercontent.com/68169895/90342752-30044800-dfd0-11ea-8670-f583f100fc96.png)
+![alt text](https://user-images.githubusercontent.com/68169895/91372371-1d142380-e7d9-11ea-9d21-e0e5a9481c6e.gif)
 
 ## links
 Weather Application [Here](https://larraineg.github.io/WeatherDashboard-HW-06/)
